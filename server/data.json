@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "firstName": "Melvin",
+      "lastName": "Torero",
+      "email": "Melvin@credicar.com",
+      "userName": "Watson",
+      "phone": "987654321",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "buys": [
+    {
+      "id": 1,
+      "userId": 1,
+      "model": "KIA",
+      "price": "100000",
+      "currency": "$",
+      "couta_inicial_porcentaje": 20,
+      "initial_fee": 20000,
+      "credit": 80000,
+      "plazo": 3,
+      "type_interest_rate": "TEA",
+      "interest_rate": "10",
+      "type_grace_period": "TOTAL",
+      "grace_period": 2,
+      "VAN": 0,
+      "TIR": 0,
+      "Desgravamen": "BancoB"
+    }
+  ]
+}
